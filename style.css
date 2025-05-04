@@ -1,0 +1,32 @@
+:root {
+    --primary-color: #ff3700;
+    --primary-dark: #cc2c00;
+    --dark-color: #333;
+    --light-color: #f4f4f4;
+    --gray-color: #ddd;
+    --white-color: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f4f4f4 ;
+}
+
+
+h1, h2, h3 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+
+
+
+
